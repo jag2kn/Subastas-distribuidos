@@ -1,0 +1,11 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="reactor.tcp.SpeedTests" tests="5" failures="0" errors="0" timestamp="2013-11-19T17:10:29" hostname="servidorRespaldo" time="0.001">
+  <properties/>
+  <ignored-testcase name="clockManualDateExtraction" classname="reactor.tcp.SpeedTests" time="0.0"/>
+  <ignored-testcase name="clockRegexExtraction" classname="reactor.tcp.SpeedTests" time="0.0"/>
+  <ignored-testcase name="clockByteBufferGetInt" classname="reactor.tcp.SpeedTests" time="0.0"/>
+  <ignored-testcase name="clockSimpleDateFormatParse" classname="reactor.tcp.SpeedTests" time="0.0"/>
+  <ignored-testcase name="clockIntegerParseInt" classname="reactor.tcp.SpeedTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

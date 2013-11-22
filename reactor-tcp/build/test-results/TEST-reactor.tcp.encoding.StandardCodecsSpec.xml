@@ -1,0 +1,12 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="reactor.tcp.encoding.StandardCodecsSpec" tests="6" failures="0" errors="0" timestamp="2013-11-19T17:10:45" hostname="servidorRespaldo" time="0.172">
+  <properties/>
+  <testcase name="StringCodec can encode and decode to Strings" classname="reactor.tcp.encoding.StandardCodecsSpec" time="0.106"/>
+  <testcase name="DelimitedCodec can encode and decode delimited lines" classname="reactor.tcp.encoding.StandardCodecsSpec" time="0.036"/>
+  <testcase name="Once decoding has completed, the buffer's position and limit are at the end of the buffer" classname="reactor.tcp.encoding.StandardCodecsSpec" time="0.009"/>
+  <testcase name="Once delimiter stripping decoding has completed, the buffer's position and limit are at the end of the buffer" classname="reactor.tcp.encoding.StandardCodecsSpec" time="0.002"/>
+  <testcase name="LengthFieldCodec can encode and decode length-prefixed items" classname="reactor.tcp.encoding.StandardCodecsSpec" time="0.006"/>
+  <testcase name="SyslogCodec can decode syslog messages" classname="reactor.tcp.encoding.StandardCodecsSpec" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
