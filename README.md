@@ -1,4 +1,3 @@
-
 ### Servidor de subastas
 
 Servidor realizado sobre Reactor para peticiones de diferentes clientes
@@ -25,7 +24,7 @@ Realizar una oferta en la subasta del usuario Pepe por 500
 
 ### Para correr:
 
- mvn exec:java -Dexec.mainClass="com.github.pk11.rnio.scala.DemoHttpServer"
+ mvn exec:java -Dexec.mainClass="com.github.pk11.rnio.HttpServer"
 
 
 
